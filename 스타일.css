@@ -1,3 +1,4 @@
+body{width: 800px;}
 .title{
     background-color: darkblue; text-align: center; padding: 10px;
 }
@@ -5,9 +6,8 @@
 .title2{font-size: 30px; color: white;}
 .title3{font-size: 20px;}
 .title4{font-size: 25px;}
-.sidebar{float: left; padding: 10px;}
-.contant{}
-p{padding: 10px;}
-.subtitle{background-color: red;}
-h2{color: yellow; padding: 5px;}
-.footer{padding: 5px;}
+.sidebar{float: left; padding: 10px; background-color: gray; height: 553px;}
+.contant{float: left; width: 638px;}
+.subtitle>h2{background-color: red; color: yellow; padding: 5px; margin-top: 0;}
+.subtitle>p{padding: 10px;background-color: white;}
+.footer{padding: 10px;float: left; background-color: darkgray;}

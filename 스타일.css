@@ -1,0 +1,13 @@
+.title{
+    background-color: darkblue; text-align: center; padding: 10px;
+}
+.title1{color: darkorange;}
+.title2{font-size: 30px; color: white;}
+.title3{font-size: 20px;}
+.title4{font-size: 25px;}
+.sidebar{float: left; padding: 10px;}
+.contant{}
+p{padding: 10px;}
+.subtitle{background-color: red;}
+h2{color: yellow; padding: 5px;}
+.footer{padding: 5px;}
